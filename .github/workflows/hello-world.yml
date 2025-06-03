@@ -5,7 +5,7 @@ jobs :
     runs-on: ubuntu-lates
     steps:
     - name : "Say Hello"
-      run : echo "Hello WOrld"
+      run : echo "Hello Wozrld"
     - name : "Say Goodbye"
       run : echo "Say Goodbye"
   create-folder :
